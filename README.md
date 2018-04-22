@@ -1,7 +1,7 @@
 # la-redux
 A place to get to know Redux better.
 
-## Pojects
+## Projects
 [Nomad](https://github.com/LNA/la-redux/tree/master/nomad): I wanted to practice test driving [actions](https://github.com/LNA/la-redux/blob/master/nomad/src/actions/index.spec.js) and [reducers](https://github.com/LNA/la-redux/blob/master/nomad/src/reducers/trips.spec.js) in Redux.
 
 ### How to run the tests
