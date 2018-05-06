@@ -1,9 +1,10 @@
 # la-redux
-A place to get to know Redux better.
+A place to get to know React, Redux, and TypeScript.
 
-## Projects
+## Finished Projects
 [Nomad](https://github.com/LNA/la-redux/tree/master/nomad): I wanted to practice test driving [actions](https://github.com/LNA/la-redux/blob/master/nomad/src/actions/index.spec.js) and [reducers](https://github.com/LNA/la-redux/blob/master/nomad/src/reducers/trips.spec.js) in Redux.
 
+## WIP Projects
 
 [Skincare](https://github.com/LNA/la-redux/tree/master/skincare): Practice testing actions and reducers for my favorite  [skincare products](https://www.sephora.com/product/super-mud-clearing-treatment-P376409?skuId=1901230&icid2=glamglow_bestsellers_carousel:p376409).
 
